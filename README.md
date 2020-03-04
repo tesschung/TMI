@@ -10,7 +10,7 @@
 
 ## 서비스 영상
 
-![화면-기록-2019..](README.assets/화면-기록-2019...gif)
+<img src="./README.assets/record.gif">
 
 
 
